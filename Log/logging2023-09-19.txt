@@ -1,0 +1,12 @@
+2023-09-19 23:17:16,270--Basepage.py--clicking on elementuserName_xpath
+2023-09-19 23:17:16,367--Basepage.py--clicking on elementpassword_xpath
+2023-09-19 23:17:16,447--Basepage.py--clicking on elementlogin_xpath
+2023-09-19 23:20:46,712--Basepage.py--sending text on elementuserName_xpath
+2023-09-19 23:20:46,814--Basepage.py--sending text on elementpassword_xpath
+2023-09-19 23:20:46,878--Basepage.py--clicking on elementlogin_xpath
+2023-09-19 23:24:51,983--Basepage.py--sending text on elementuserName_xpath
+2023-09-19 23:24:52,088--Basepage.py--sending text on elementpassword_xpath
+2023-09-19 23:24:52,169--Basepage.py--clicking on elementlogin_xpath
+2023-09-19 23:26:14,799--Basepage.py--sending text on elementuserName_xpath
+2023-09-19 23:26:14,885--Basepage.py--sending text on elementpassword_xpath
+2023-09-19 23:26:14,960--Basepage.py--clicking on elementlogin_xpath
